@@ -1,0 +1,21 @@
+body{ 
+  background-color: aqua;
+} 
+h1{
+  font-family: "Arial Black", sans-serif;
+  font-size: 32px;
+  color: blue;
+  text-align: center;
+}
+ol{
+  font-family: "Calibri", sans-serif;
+  font-weight: bolder;
+  font-size: 24px;
+  color: black;
+}
+ul{
+  font-family: "Calibri", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  color: green;
+}
